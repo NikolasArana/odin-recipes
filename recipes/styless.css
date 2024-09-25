@@ -1,0 +1,15 @@
+
+.titu{
+    background-color: rgb(255, 131, 29);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+*{
+    font-size: 20px;
+}
+.regular{
+    background-color: aquamarine;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

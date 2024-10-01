@@ -1,11 +1,37 @@
 
 .titulo{
-    background-color: rgb(154, 59, 232);
+    background-color: lightblue;
     font-size: 52px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    height: 100px;
+    width: 600px;
+    border: 3px black solid;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 div{
     font-size: 27px;
+    
+    
+}
+.button{
+    display: inline-flex;
+    height: 70px;
+    width: 200px;
+    border: 1px black solid;
+    padding: 20x;
+    background-color: rgb(223, 184, 247);
+    text-decoration: none;
+    font-size: 19px;
+   align-items: center;
+    justify-content: center;
+    margin: 4px;
+
+
 }
